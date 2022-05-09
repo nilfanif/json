@@ -4,7 +4,7 @@
     "url": "https://github.com/nilfanif/minimal/raw/main/wafy.png",
     "author":"Wallpaperable",
     "thumbnail":"https://github.com/nilfanif/thumb_minimal/raw/main/thumb_wafy.jpg",
-    "collection":"minimal",
+    "collections":"minimal",
     "dimensions":"2500 x 4000 px",
     "copyright":"Personal Use, Credit Required",
     "downloadable":true
@@ -14,7 +14,7 @@
     "url": "https://github.com/nilfanif/minimal/raw/main/wafydark.png",
     "author":"Wallpaperable",
     "thumbnail":"https://github.com/nilfanif/thumb_minimal/raw/main/thumb_wafydark.jpg",
-    "collection":"dark",
+    "collections":"minimal,dark",
     "dimensions":"2500 x 4000 px",
     "copyright":"Personal Use, Credit Required",
     "downloadable":true
